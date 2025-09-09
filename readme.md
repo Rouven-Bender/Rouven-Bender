@@ -4,7 +4,7 @@ Junior Developer who completed a 3 year apprenticeship in 1.5.
 
 Passionate about development, solving problems and automating process
 
-Moved Most mostly to selfhosted Homeservers
+Moved mostly to selfhosted Homeservers
 # Languages and Tools that I've used
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 1.5 years professionally
 - ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 1 year in side projects and a bit professionally
